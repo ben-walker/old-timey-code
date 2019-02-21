@@ -4,8 +4,6 @@
 ! opponent.
 !
 ! author: Ben Walker
-! student #: 0883544
-! course: cis*3190
 ! date: 2018/01/30
 !
 
